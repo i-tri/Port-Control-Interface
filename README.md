@@ -38,7 +38,7 @@ pip install flask netmiko
 **3. Run the application: Start the Flask development server**:
 
 ```bash
-python app.py
+python Port_State_GUI.py
 ```
 The web application will be available at http://127.0.0.1:5000/.
 
