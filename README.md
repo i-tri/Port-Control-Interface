@@ -56,19 +56,23 @@ Before running the application, make sure to set up the device's IP address, use
 
 <img width="350" alt="GUI-1" src="https://github.com/user-attachments/assets/42594598-8f8c-478b-8e10-c65cd6b35516">
 
+
 **Login Details with Port Layout**
 
 <img width="323" alt="GUI-2" src="https://github.com/user-attachments/assets/b4d2d0f3-e5f9-4cdb-b49b-f7eac7db078c">
 
+
 **Command output**
 
 <img width="308" alt="GUI-Command output" src="https://github.com/user-attachments/assets/b7acf464-8bc4-4d62-8206-6fcabb1100f4">
+
 
 **Command Output if port state can not be changed**
 
 This will depend on device used and command executed
 
 <img width="307" alt="GUI-Command output error" src="https://github.com/user-attachments/assets/09993f6a-ec9e-47cd-b8e6-9c6b1e1cc6a3">
+
 
 
 ## Troubleshooting ##
